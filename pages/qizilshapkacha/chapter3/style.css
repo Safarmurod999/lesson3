@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: system-ui;
+    background-color: rgb(234, 156, 229);
+}
+img{
+    width: 600px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
